@@ -24,7 +24,7 @@ The goal of this project is to predict house rent prices using the Passive Aggre
 ##### clone the repository : 
 
 ```bash
-git clone https://github.com/Mohshaikh23/Instagram-Reach-Analysis.git
+git clone https://github.com/mohammadjazbi10/instagram-reach-analysis-aiml.git
 ```
 
 Before running the code, ensure you have the required libraries installed:
